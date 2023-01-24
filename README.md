@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanthan-k&label=Profile%20views&color=0e75b6&style=flat" alt="sayanthan-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanthan-k" alt="sayanthan-k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sayanthan-K" alt="sayanthan-k" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,Mern stack,**
 
@@ -31,11 +31,11 @@
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanthan-K&layout=compact"/> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanthan-k&show_icons=true&locale=en&layout=compact" alt="sayanthan-k" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayanthan-K&show_icons=true&locale=en&layout=compact" alt="Sayanthan-K" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanthan-k&show_icons=true&locale=en" alt="sayanthan-k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayanthan-K&show_icons=true&locale=en" alt="Sayanthan-K" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanthan-k&" alt="sayanthan-k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayanthan-K&" alt="Sayanthan-K" /></p>
 
  
   
